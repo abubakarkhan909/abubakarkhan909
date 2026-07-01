@@ -17,7 +17,7 @@
 </div>
 ## :woman_technologist: <strong>About Me</strong> :
 
-I am a Frontend ReactJs Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Frontend ReactJs,NextJs Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Web Developer and contributing to frontend development for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
